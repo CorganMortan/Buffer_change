@@ -1,0 +1,8 @@
+﻿  OnlineWalletsOperations.cpp
+d:\visual_studio_projects\clipboardscaner\clipboardscaner\onlinewalletsoperations.h(16): warning C4018: '<': signed/unsigned mismatch
+  ClipBoardScaner.cpp
+d:\visual_studio_projects\clipboardscaner\clipboardscaner\onlinewalletsoperations.h(16): warning C4018: '<': signed/unsigned mismatch
+  ClipBoardOperations.cpp
+  Generating Code...
+  ClipBoardScaner.vcxproj -> D:\visual_studio_projects\ClipBoardScaner\Debug\ClipBoardScaner.exe
+  ClipBoardScaner.vcxproj -> D:\visual_studio_projects\ClipBoardScaner\Debug\ClipBoardScaner.pdb (Partial PDB)
